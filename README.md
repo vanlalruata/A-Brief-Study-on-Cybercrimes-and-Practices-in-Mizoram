@@ -1,4 +1,4 @@
-# A-Brief-Study-on-Cybercrimes-and-Practices-in-Mizoram
+# A Brief Study on Cybercrimes and Practices in Mizoram
 
 ### DOI: [10.1109/ICIMCIS53775.2021.9699193](https://doi.org/10.1109/ICIMCIS53775.2021.9699193)
 ### Data Collection: Google Form, with sample population of 1538 response from all districts within Mizoram, India.
